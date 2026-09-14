@@ -1,0 +1,35 @@
+# Vendor-supplied and generated binaries
+*.xapk
+*.apk
+*.jar
+*.zip
+*.keystore
+*.p12
+*.jks
+*.idsig
+
+# Private signing material and generated working trees
+/signing/
+/work/
+/dist/
+/analysis/
+
+# Downloaded tools (keep only the small source helper)
+/tools/*
+!/tools/Download.java
+
+# Local editor/agent state and device diagnostics
+*.private.md
+/.unsnooze/
+/.agents/
+/.codex/
+/.idea/
+/.vscode/
+*.log
+*.png
+*.xml
+
+# OS metadata
+.DS_Store
+Thumbs.db
+desktop.ini

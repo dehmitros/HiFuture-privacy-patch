@@ -1,0 +1,412 @@
+Privacy Policy
+
+ 
+
+HiFuture Fit, an application made by Shenzhen Future Access Technology Co., Ltd. (hereinafter referred to as “we”, “our” or “us”), provide you with exercise guidance and health services. We understand that privacy is important to you and we will do our best to protect your privacy. Please take a moment to familiarize yourself with our privacy practices and let us know if you have any questions.
+
+ 
+
+Our promise to you
+
+ 
+
+This Privacy Policy explains how we collect, use, disclose, process and protect the information that you provide to us when you use our products and services. If we ask you to provide certain information in order to verify your identity when using our products and services, we will use that information strictly in accordance with this Privacy Policy and our User Terms and Conditions. 
+
+ 
+
+This Privacy Policy is designed with your needs in mind, and it is important that you fully understand of our personal information collection and usage practices, while ensuring that ultimately, you can control your personal information provided to us.
+
+ 
+
+Under this Privacy Policy, “personal information” refers to the information itself or the data that can identify a specific individual after connecting other information of individuals that we can access. Such personal information includes your phone number and email address.
+
+ 
+
+By using our products and services, it means that you have read this privacy policy statement and consent to our privacy practices as described in this statement, including any changes we may make at any time. We are committed to protecting the privacy, confidentiality and security of your personal information by complying with applicable law including the data protection laws in your region. At the same time, we are committed to ensuring that all our employees and agents to fulfill these obligations.
+
+ 
+
+Ultimately, what we want is the best for all our users. If you have any questions about our data handling practices as summarized in this Privacy Policy, please contact us via info@hifuturegroup.com to address your specific concerns. We will be happy to help you.
+
+ 
+
+1. What information is collected by us and how do we use it?
+
+1.1 What information is collected by us?
+
+ 
+
+In order to provide our services to you, we will ask you to provide personal information that is necessary to provide you with the services. If you do not provide your personal information, we may not be able to provide you with our products or services.
+
+We collect the following types of information ((whether it is personal information or not):
+
+ 
+
+Information about you: We may collect and use QQ, WeChat, Facebook and Twitter accounts, cell phone number, email address, avatar, personal signature, nicknames, gender, time zones, languages, and your sports preferences.
+
+ 
+
+Personal Body Information: When you activate App, we may need you to provide height, weight, gender and age data.
+
+ 
+
+Information Recorded by your Device: When you use the App to synchronize device data, your personal data is recorded. For example, activity information, sleep information, heart rate, blood oxygen saturation, weight, stroke times, stroke velocity, swimming times, resistance value, stroke length, stroke, pace, exercise time, body temperature, blood pressure, body fat, ECG, respiration rate, mood, and stress information.
+
+ 
+
+Incoming call information: When you use the functions, such as incoming call, SMS reminder and contact list, APP will get the incoming calls, SMS and address book data, and with your consent, we will obtain incoming calls, messages and contact information for display, but the App will not save your incoming call, message, contact and other related information.
+
+ 
+
+Cell phone information: The operating system version and brand model of your mobile phone may need to be collected when you use the APP.
+
+ 
+
+Music Control Information: When you use music control functions, the music information (e.g. song name, album name, singer, the playing topic, the status of song) will be obtained from your cellphone and synchronized to the device. This information will only be displayed on the device and we will not save this information.
+
+ 
+
+Location Information: When you use location-based program services or features, we may collect your location information.
+
+ 
+
+Feedback information: When you submit your feedback, related user feedback logs, contact and other information will be collected according to your choice.
+
+ 
+
+Device Information: When you use the APP to connect to a hardware device, including but not limited to the unique identifier, firmware version, approximate geographic location data (non-personal data) and related function usage statistics (non-personal data) will be transmitted to the server. The above data collection may also apply to your updated system or software and factory settings, etc.
+
+ 
+
+If you have set your goals and heart rate reminders in the APP, you will fill in your own sports goals, weight goals, and heart rate. The reminder value will be collected so as to remind or warn you when the goal is reached. When you use female health function, the data provided by you will be collected, for example, the number of days of menstruation duration, the number of days between the start of menstruation, the date of the most recent menstruation, and the start date and end date of menstruation submitted that every time you use it. Your body condition and mood during the menstruation will be collected. If you choose to make the watch dial by yourself, the pictures you upload will be collected by us for serving as your watch dial background.
+
+ 
+
+Relatives and friends information: You can choose to add other users as your relatives and friends through the relatives and friends functionality. After your relatives and friends are authorized, their data (such as activity, sleep, weight, heart rate, blood pressure, body temperature, body fat, blood oxygen, ECG data, etc.) will be used to show you.
+
+ 
+
+Software installation list: Your software installation list may need to be collected when you use the login function and APP push services.
+
+ 
+
+The app uses Apple HealthKit, which will be used to measure the user's steps, walking + running distance, activity energy, height, sleep, weight, and heart rate after the user opens it.
+
+ 
+
+1.2 How we use your personal information？
+
+ 
+
+The purpose of collecting personal information is to provide you with products and services, ensuring that we comply with applicable laws. You hereby consent to our process and disclose personal information to our affiliated companies (which are in the communications, social media, technology and cloud businesses) and to Third Party Service Providers for the purposes of this Privacy Policy.
+
+ 
+
+We use your personal information we collect for the following purposes:
+
+ 
+
+Set up a sports account: When you create a sports account through the APP, the information you fill in will be used to create your sports account and to display related data in the APP.
+
+ 
+
+Calculate exercise and health results: We will use personal body data and the data recorded by the device to calculate exercise and health results, and show you the results in the APP and device, such as BMI, muscle, body fat, moisture, protein, basal metabolism, internal organs fat, bone mass, body size, body age, emotion stress, calorie consumption, maximum oxygen uptake, training effect, training load, recovery time and oxygen saturation.
+
+ 
+
+Analyze body condition: Based on your personal body data and the data recorded by the device, we will provide you with the analysis related to your body condition for your reference. For example, we provide you with a range of ideal weight values for your reference, and show you your current and all-day stress value, and stress change tendency.
+
+ 
+
+Provide sports services: After the devices are synchronized with the APP, the data recorded by the device will be synchronized to the APP and displayed to the users.
+
+ 
+
+Display incoming call information: When you receive a call or text message, some of the devices that support this function will display the call or message data.
+
+Display music information: When you use the music control function, some of the devices that support this function will display the music information (such as, the name of song, album name, artist, playing topic and the status of song).
+
+ 
+
+Determine whether the phone is supported. The information related to your cell phone will be used to determine whether your cell phone can use the APP .
+
+ 
+
+Provide women’s health function: When you choose to use the women's health function, we will predict the menstrual period and make a reminder for you based on the information you fill in.
+
+ 
+
+Display sleep information: We will use personal body data and the data recorded by the device to calculate and analyze your sleep, which are used to show you in the APP, such as sleep score, sleep time, and sleep duration distribution.
+
+ 
+
+Provide heart health monitoring function: Some devices support heart health monitoring function. If you choose to enable this function, we may collect your heart rate information to show you your heart rate status, so as to remind you the data changes and show you in the device and APP.
+
+ 
+
+Software installation list: Your software installation list may need to be collected when you use the login function and APP push service so that we can show you the available software, but we do not store your software list information. 
+
+ 
+
+2. How do we use cookies and similar technologies
+
+ 
+
+2.1 Cookie
+
+ 
+
+To ensure that websites work properly, we store small data files called cookies on computers or mobile devices sometimes. A cookie is a plain text file that a web server stores on a computer or mobile device. The content of a cookie can only be retrieved or read by the server that created it. Each cookie is unique to your web browser or mobile application. Cookies often contain identifiers, site names, and some numbers and characters. With cookies, the website can store data such as user preferences or products in the shopping basket.
+
+ 
+
+The purpose of enabling cookies for most large websites or Internet service providers is to improve the user experience. With cookies, a website can remember a user's single visit (using session cookies) or multiple visits (using a permanent cookie). With cookies, websites can save settings such as the language of the computer or mobile device, font size, and other browsing preferences. This means that users do not need to reconfigure user preferences every time they visit. If a website does not use cookies, it will be treated as new visitors each time a user opens a webpage. For example, if you log in to a website and go to another webpage, the website will not recognize you and you will be logged out again.
+
+ 
+
+The company will not use cookies for any purpose other than those described in this policy. You can manage or delete cookies according to your preferences. For details, see AboutCookies.org. You can clear all cookies saved on your computer, and most web browsers have a cookie-blocking feature. However, if you do this, you will need to change your user settings personally each time you visit our site. For more information on how to change your browser settings, visit the following links: <Internet Explorer>, <Google Chrome>, <Mozilla Firefox>, <Safari>, and <Opera>.
+
+ 
+
+2.2 Web Beacons and Pixel Tags
+
+ 
+
+In addition to the cookies, we use other technologies such as web beacons and pixel tags on our websites. For example, an e-mail sent by our company to you may contain a click-through URL that links to the content of our website. If you click on the link, the company will track this click to help us understand your product and service preferences and improve customer service. Web beacons are usually transparent images embedded in websites or emails. With the pixel tag in the email, we can tell if the email was opened. If you do not want your activity to be tracked this way, you can unsubscribe from our company's mailing list at any time.
+
+ 
+
+2.3 Do Not Track (Do Not Track)
+
+ 
+
+Many web browsers have a "Do Not Track" feature that can issue Do Not Track requests to websites. At present, major Internet standards organizations have not yet set up policies to specify how websites should respond to such requests. However, if your browser has "Do Not Track"enabled, all of our website will respect your choice.
+
+ 
+
+3. How Do We Disclose Your Personal Data
+
+ 
+
+The company will not sell your personal data to the third parties. However, the company will disclose your personal data in the following circumstances:
+
+ 
+
+3.1 Disclosure with explicit consent: With your explicit consent, the company will share your personal data with other parties.
+
+ 
+
+3.2 Disclosures based on legal or justifiable grounds: The company may disclose your personal data if required by law, legal process, litigation or public and government authorities.
+
+ 
+
+4. How we protect your personal data?
+
+ 
+
+The company attach importance to the security of personal data. We use industry standard ways to protect your personal data and prevent data from being accessed, disclosed, used, modified, damaged, or lost. We will take all reasonable and practical measures to protect your personal data. For example, we use encryption technology to ensure data confidentiality; we use trusted protection mechanisms to prevent data from malicious attacks; we deploy access control mechanisms to ensure that only authorized personnel have access to personal data; and we organize security and privacy protection training courses to enhance employee awareness of the importance of protecting personal data.
+
+ 
+
+We will take all reasonable and practicable steps to ensure that no irrelevant personal data is collected. We will only retain your personal data for the period required to achieve the purposes described in this policy, unless we need to extend the retention period or be allowed by law. We will do our best to protect your personal data, but please note that any security measures cannot be made to be flawless.
+
+ 
+
+5. How to access or modify your personal data
+
+ 
+
+According to the company's terms and conditions, you can manage your personal data at any time, such as your account information. You should ensure that all personal data submitted are accurate. We will do our best to maintain the accuracy and completeness of personal data and update it in a timely manner.
+
+ 
+
+You have the right to access to your personal data, except for certain legal exceptions. If privacy and information laws different in some jurisdictions, we will comply with these laws. If you want to access the data, please notify us at info@hifuturegroup.com. For security, you may need to provide a written request.
+
+ 
+
+You also have the right to delete or modify any personal information we hold about you. We will delete or modify this information at your request. To make such a request, please contact us at info@hifuturegroup.com. If we have reasonable grounds to believe that these requests are deceptive, unenforceable or if local law does not provide access, we will refuse to process the request.
+
+ 
+
+ Account Cancellation
+
+You can cancel your account directly from the app by going to "Me - System Settings - Cancel Account". Please note that this action is irreversible, when you cancel your account, we will delete or anonymize your personal information, except where otherwise required by law.
+
+ 
+
+6. How Do We Handle Children's Personal Data
+
+ 
+
+Our products, websites and services are mainly for adults. Children cannot create their own user accounts without the consent of their parents or guardians. In the case of the use of children's personal data with parental consent, we will only use or disclose this data if it is permitted by law, parental or guardian’s explicit consent or protection of children is necessary. Although local laws and customs define children differently, we treat anyone under the age of 13 as a child.
+
+ 
+
+If the company finds that it has collected personal data from children without prior and verifiable parental consent, We will try to delete the relevant data as soon as possible.
+
+ 
+
+7. Our Third Party Providers and Their Services
+
+ 
+
+Do I have to agree to any third-party terms and conditions?
+
+Our privacy policy does not apply to products and services provided by third parties. Depending on the products and services you use, which may include third-party products and services, involving analysis and statistics, map services, login services, etc., some of them will be provided in the form of links to third-party websites, and some will be SDK , API and other forms of access.When you use these products or services, it may also collect your information.Therefore, we strongly recommend that you take the time to read the privacy policy of the third party, just like reading our policy.We are not responsible for how third parties use the personal information they collect from you, and we have no control over their use. Our privacy policy does not apply to other websites linked through our service.
+
+ 
+
+·   With Google Fit, you agree to Google Fit's Terms of Service and Privacy Policy：
+
+ 
+
+http://www.google.com/policies/privacy
+
+HiFuture Fit transfers step, distance, calorie, heart rate, and sleep data to the Google Fit for display via the Google API and adheres to the Google API Services User Data Policy (https://developers.google.com/terms/api-services-user-data-policy#additional_requirements_for_specific_api_scopes), including limited use requirements.
+
+ 
+
+·   With Apple Health you agree to Apple's Terms of Service and Privacy Policy：
+
+ 
+
+https://www.apple.com/legal/privacy/szh/
+
+ 
+
+·   In addition, we have also integrated the following SDKs. When you use these specific products, your information collected by the SDK, the purpose of use, and the applicable third-party privacy policies are listed below:
+
+ ·Amap Maps, Amap Positioning: Need to call your location permissions,Background positioning permissions,In order to return location information to the application in the foreground or background scenario.Your location information (latitude and longitude, precise location, rough location), device information (such as IP address, GNSS information, WiFi status, WiFi parameters, WiFi list, SSID, BSSID, base station information, WiFi signal strength information, Bluetooth information) will be collected , sensor information (vector, acceleration, pressure, direction, geomagnetism), device signal strength information, external storage directory)、Device identification information (IDFA, OAID), current application information (application name, application version number), device parameters and system information (system attributes, device model, operating system, operator information), In order to provide users with positioning and auxiliary positioning, and achieve more accurate location information for users.
+
+Privacy Policy:https://lbs.amap.com/pages/privacy
+
+ 
+
+·   Google Map: Need to retrieve your location permission, will collect your device information, network status, location information; provide you with location records when you are outdoors; privacy policy:  
+
+ 
+
+http://www.google.com/policies/privacy
+
+ 
+
+·   Alipay payment: need to retrieve your camera permissions, storage permissions, collect your network status, basic personal information submitted when registering an Alipay account, transaction information, and device information; provide you with Alipay payment services according to your needs;privacy policy :
+
+ 
+
+https://intl.alipay.com/ihome/help/agreements/detail.htm?agreement=AlipayPrivacyPolicy 
+
+ 
+
+·   Wechat login: You need to call up your network permissions and external storage write permissions, will collect your network status, and provide you with account login and information sharing services according to your specifications; privacy policy:
+
+ 
+
+http://weixin.qq.com/agreement
+
+ 
+
+·   Facebook login: You need to retrieve your network permissions and collect your network status in order to provide you with login and information sharing services according to your designation; privacy policy:
+
+ 
+
+https://opensource.facebook.com/legal/privacy/
+
+ 
+
+·   QQ login: you need to call up your network permissions and external storage write permissions, will collect your network status, and provide you with information sharing services according to your specifications; privacy policy:
+
+ 
+
+http://www.qq.com/privacy.htm
+
+ 
+
+·   Twitter login: You need to retrieve your network permissions and external storage write permissions, will collect your network status, and provide you with information sharing services according to your specifications; privacy policy:
+
+ 
+
+https://developer.twitter.com/zh-cn/more/developer-terms/agreement-and-policy
+
+ 
+
+·   By using Weibo, you will agree to Weibo’s terms of service and privacy policy:
+
+ 
+
+http://weibo.com/signup/v5/protocol
+
+ 
+
+·   Our products, Umeng integration+ SDK and Umeng+ SDK, are required to collect your device Mac address and unique device identification (IMEI/android ID/IDFA/OPENUDID/GUID/SIM card IMSI/OAID/ICCID/SN information/Serial number) and Network information (WiFi information, base station information, SSID, BSSID),in order to provide statistical analysis services. Moreover, after calibrating the accuracy of report data through location, we can provide basic anti-cheating capabilities. Using Umeng means that you agree to its Terms of Service and Privacy Policy:
+
+ 
+
+https://www.umeng.com/page/policy
+
+ Our products use 360 jiagu SDK for App fault detection and diagnosis, App security reinforcement protection, piracy detection services, and threat environment detection services to help users quickly resolve abnormal situations.
+
+Privacy policy:: https://jiagu.360.cn/#/global/help/322
+
+Official website link: https://jiagu.360.cn
+
+ 
+
+8. Permission usage instructions
+
+Storage permissions: When you use sharing, set personal avatars through albums, set dial backgrounds, firmware upgrades and other functions, you need to enable this permission to read image information or write application information. If you do not need such services, you can turn off the permission at any time, which will not affect the use of other services.
+
+ 
+
+Camera permission: When you scan the QR code to connect to the device, add relatives and friends, shake and take pictures, and set the avatar and dial background by taking pictures, we need to apply for and obtain this permission from you in order to complete the picture shooting. If you do not need such services, you can turn off the permission at any time, which will not affect the use of other services.
+
+ 
+
+Location permission: When you use map positioning to generate motion track, Bluetooth pairing, weather push or other location-related search functions, you can choose to enable this permission to determine your current location information. If your phone is Android 10 or above, in order to ensure the normal recording of data and trajectory during exercise, you will also apply for background positioning permission. Please enable this permission. If you do not need such services, you can turn off this permission at any time, which will not affect the use of other services.
+
+ 
+
+Phone permission: When you use the wearable device to reject calls and receive call information on the wearable device, you can choose to enable this permission to get the phone status. If you do not agree with this permission, it may affect the normal function usage.
+
+ 
+
+Call permission: When you use the wearable device to reject calls and receive call information on the wearable device, you can choose to enable this permission so that the wearable device can reject calls and receive call information normally. If you do not agree with this permission, it may affect the normal function usage.
+
+ 
+
+Call log permission: When you use a wearable device to push caller  number, you can choose to enable this permission to display the caller ID on the paired device. If you do not need such services, you can turn off the permission at any time, which will not affect the use of other services.
+
+ 
+
+Address book permission: When you use to push caller contact information and SMS contact information to the device, you can choose to enable this permission to display the caller contact information on the wearable device. If you do not need such services, you can turn off the permission at any time, which will not affect the use of other services.
+
+ 
+
+SMS permission: When you use to push SMS messages to the device, you can choose to enable this permission to display the message content on the wearable device. If you do not need such services, you can turn off the permission at any time, which will not affect the use of other services.
+
+ 
+
+Auto start permission: Used in the background of the APP to push message reminders to the Bluetooth device, so that users can perceive and not miss important messages and calls. The APP will not automatically remind the user to open it, and the user needs to open it by himself.You can turn off the permission at any time, which will not affect the use of other services.
+
+ 
+
+Acquire G sensor: 
+the shake for photo feature requests  G sensor to detect the device movement status and direction, as well as to automatically rotate the screen. 
+
+ 
+
+You can visit the system "Settings" at any time to manage your system permissions.
+
+9. How this policy is updated?
+
+ 
+
+We may modify and update this Privacy Policy from time to time. Updates to this Privacy Policy will be posted in the APP in the form of notice. You can check the latest version by visiting the APP. For other major changes, a solemn notice will be provided.
+
+ 
+
+Shenzhen Future Access Technology Co., Ltd.  
+
+Last updated:November 3, 2023
+
+ 
