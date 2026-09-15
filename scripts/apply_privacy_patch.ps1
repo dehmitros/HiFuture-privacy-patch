@@ -31,7 +31,7 @@ function Disable-PublicStaticVoidMethods([string]$Path) {
     $pattern = '(?ms)^(?<header>\.method public static [^\r\n]+\)V)\r?\n.*?^\.end method'
     $replacement = '${header}' + "`r`n    .locals 0`r`n`r`n    return-void`r`n.end method"
     $patched = [System.Text.RegularExpressions.Regex]::Replace($text, $pattern, $replacement)
-    if ($patched -eq $text) {
+    if (-not [System.Text.RegularExpressions.Regex]::IsMatch($text, $pattern)) {
         throw "No public static void methods found in $Path"
     }
     Write-Utf8NoBom $Path $patched

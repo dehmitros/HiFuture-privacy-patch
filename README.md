@@ -1,6 +1,6 @@
 # HiFuture Aurora / Fit 1.5.1.5 privacy patch
 
-This project was made for the HiFuture Aurora smartwatch, it patches the Android HiFuture Fit app (`com.cs.ute.hiFuture`, version `1.5.1.5`) into an offline build. Local Bluetooth watch functions are preserved. Internet access, analytics, advertising, cloud services, and several third-party integrations are yanked out.
+This project was made for the HiFuture Aurora smartwatch, it patches the Android HiFuture Fit app into an offline build. Local Bluetooth watch functions are preserved. Internet access, analytics, advertising, cloud services, and several third-party integrations are yanked out. An optional [private weather companion](weather/README.md) supplies forecasts without giving HiFuture Fit Internet access.
 
 ## What you need
 
@@ -88,8 +88,6 @@ Do not uninstall a working privacy build before an update. Rebuild and sign the 
 
 ## Expected limitations
 
-Online features do not work: weather, cloud sync, online watch faces, remote firmware/config downloads, online maps, email/social login, feedback upload, and update checks. Some now-inert buttons may remain visible.
+Online features do not work: vendor weather, cloud sync, online watch faces, remote firmware/config downloads, online maps, email/social login, feedback upload, and update checks. Weather can be restored with the optional companion. Some now-inert buttons may remain visible.
 
 The missing Android Internet permission is the primary egress control. The original app's large codebase still contains unreachable vendor networking code. Local health data remains in ordinary SQLite storage protected by Android's app sandbox and device encryption, not a separate database password.
-
-See [hifit-privacy-data-outline.md](hifit-privacy-data-outline.md) for the source privacy assessment.

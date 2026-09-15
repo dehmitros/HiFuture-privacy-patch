@@ -1,0 +1,6 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="org.hifuture.weather.test">
+    <uses-sdk android:minSdkVersion="26" android:targetSdkVersion="35" />
+    <uses-permission android:name="com.cs.ute.hiFuture.permission.PRIVATE_WEATHER" />
+    <application android:label="Weather bridge test" android:allowBackup="false" />
+    <instrumentation android:name=".BridgeInstrumentation" android:targetPackage="org.hifuture.weather" />
+</manifest>
